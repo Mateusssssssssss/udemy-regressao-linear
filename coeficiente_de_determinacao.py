@@ -1,8 +1,8 @@
 #Calculo do coeficiente de determinação
 #Ajuda na criação de modelos preditivos:
-# se r > 0.7 Forte capacidade explicativa, ótimo para modelos preditivos 
-# r 0.5 a 0.7 boa
-# r 0.3 a <0.5  Moderada
+# se r > 0.7 Forte capacidade explicativa, ótimo para modelos preditivos
+# r 0.5 a 0.7 Boa
+# r 0.3 entre 0.5  Moderada
 # r abaixo de 0.3  Fraca capacidade explicativa
 correlacao = 0.6437009222786095
 r2 = correlacao ** 2
